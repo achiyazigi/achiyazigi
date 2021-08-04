@@ -21,8 +21,36 @@
 <br />
 
 ---
+<div display='inline-block'>
+<img align="left" alt="Achiya-Zigler Github Status" src="https://github-readme-stats.vercel.app/api?username=achiyazigi&show_icons=true&theme=onedark" />
 
-<img align="left" alt="Achiya-Zigler Github Status" src="https://github-readme-stats.vercel.app/api?username=achiyazigi&show_icons=true&theme=onedark">
+<img  alt="Achiya-Zigler Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achiyazigi&layout=compact&theme=onedark" />
+<br />
+<br />
+  
+</div>
 
-<img align="left" alt="Achiya-Zigler Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achiyazigi&layout=compact&theme=onedark">
 
+---
+
+<div display='inline-block'>
+  <h3>Take a look at my last projects:</h3>
+  <table>
+    <thead align='center'>
+      <tr>
+        <td>Graph Algorithms Visualizer</td>
+        <td>Tuning Aleph Bert - sentence completion</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href='https://github.com/achiyazigi/Admonds-Algorithm.git'><img src='https://imgur.com/dg3BDwQ.gif' style="width: 50%; height: 50%"></a>
+        </td>
+        <td>
+          <a href="https://github.com/achiyazigi/BERT.git"><img src="https://imgur.com/D5PWCUw.gif" style="width: 50%; height: 50%"></img></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
