@@ -10,6 +10,7 @@
 <img align="left" alt= "C++" width="30px" src="https://i.ibb.co/jhv07kx/c.png" />
 <img align="left" alt= "Python" width="30px" src="https://i.ibb.co/V33DMrQ/python.png" />
 <img align="left" alt= "Node.js" height="30px" src="https://i.ibb.co/ZVGGFfz/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt= "Photoshop" width="30px" src="https://i.ibb.co/f8X8b0C/photoshop.png" />
 <img align="left" alt= "Github" width="30px" src="https://i.ibb.co/4W3kdkp/GitHub.png" />
 <img align="left" alt= "Git" width="30px" src="https://i.ibb.co/0FNQXMy/git.png" />
