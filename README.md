@@ -1,6 +1,6 @@
 ### Hi there I'm Achiya👋
 
-- ✨ I'm Student 2nd year of CS & Math, Ariel University 
+- ✨ I'm a 3rd year Student of CS & Math, Ariel University 
 
 ---
 
