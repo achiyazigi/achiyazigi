@@ -1,21 +1,17 @@
-### Hi there I'm Achiya👋
-
-- ✨ I'm a 3rd year Student of CS & Math, Ariel University 
+### Achiya Zigler - Software Engineer
 
 ---
 
 ### Languages and Tools:
-<img align="left" alt= "Java" width="30px" src="https://i.ibb.co/64kLmDp/java.png" />
-<img align="left" alt= "C" width="30px" src="https://i.ibb.co/5M1TdDD/c.png" />
 <img align="left" alt= "C++" width="30px" src="https://i.ibb.co/jhv07kx/c.png" />
+<img align="left" alt= "C" width="30px" src="https://i.ibb.co/5M1TdDD/c.png" />
+<img align="left" alt= "Java" width="30px" src="https://i.ibb.co/64kLmDp/java.png" />
 <img align="left" alt= "Python" width="30px" src="https://i.ibb.co/V33DMrQ/python.png" />
 <img align="left" alt= "Node.js" height="30px" src="https://i.ibb.co/ZVGGFfz/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt= "Photoshop" width="30px" src="https://i.ibb.co/f8X8b0C/photoshop.png" />
 <img align="left" alt= "Github" width="30px" src="https://i.ibb.co/4W3kdkp/GitHub.png" />
 <img align="left" alt= "Git" width="30px" src="https://i.ibb.co/0FNQXMy/git.png" />
-<img align="left" alt= "Intellij" width="30px" src="https://i.ibb.co/rMJzrfk/Intelli-JIDEA.png" />
-<img align="left" alt= "Pycharm" width="30px" src="https://i.ibb.co/SdBmZC2/pycharm.jpg" />
 <img align="left" alt= "Visual Studio" width="30px" src="https://i.ibb.co/n7vwtsc/vs.png" />
 
 <br />
@@ -46,10 +42,10 @@
     <tbody>
       <tr>
         <td>
-          <a href='https://github.com/achiyazigi/Admonds-Algorithm.git'><img src='https://imgur.com/dg3BDwQ.gif' style="width: 50%; height: 50%"></a>
+          <a href='https://github.com/achiyazigi/Admonds-Algorithm.git'><img src='https://github.com/achiyazigi/Admonds-Algorithm/blob/main/assets/demo.gif' style="width: 100%; height: 100%"></a>
         </td>
         <td>
-          <a href="https://github.com/achiyazigi/BERT.git"><img src="https://imgur.com/D5PWCUw.gif" style="width: 50%; height: 50%"></img></a>
+          <a href="https://github.com/achiyazigi/BERT.git"><img src="https://github.com/achiyazigi/BERT/blob/production/assets/demo.gif" style="width: 100%; height: 100%"></img></a>
         </td>
       </tr>
     </tbody>
